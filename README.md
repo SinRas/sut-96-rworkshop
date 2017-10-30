@@ -3,6 +3,14 @@ Repository for 'R Workshop' at 'Sharif University of Technology', 2017 Fall.
 
 The workshop is held on: `2017/10/26` from `9:00 - 15:00`.
 
+# Some Useful Sources of Learning
+- [Cookbook for R](http://www.cookbook-r.com/)
+- [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
+- [R in Action: Data Analysis and Graphics with R](https://www.amazon.com/R-Action-Robert-Kabacoff/dp/1935182390)
+- [DataCamp: R](https://www.datacamp.com/courses/tech:r)
+- [edX: Statistics and R](https://www.edx.org/course?search_query=statistics+and+r)
+- [Comprehensive R Archive Network](https://cran.r-project.org/) 
+
 # Required `R` Libraries
 You will need these libraries for the workshop.
 
